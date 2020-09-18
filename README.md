@@ -8,7 +8,10 @@
 I am Andre Joubert. I am from South Afrca and currently doing my B.Tech from Vellore Institute of Technology 🏫.I love to do web development and open to learning new technologies.
 
 ## 💻 Projects
-* [COVID 19 TRACKER (Graph Display and Clickable Globe UI)](https://suyash-srivastava.github.io/suyashsrivastava/COVID19)
+* DebtsSoft - Debt Collection System
+* DebtSoft-Mobile
+* CosyChat
+* Office-Management-System
 
 ## ⚡ Technologies 
 - Front-end development using **HTML, Javascript,CSS,Bootstrap**
