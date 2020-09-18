@@ -20,7 +20,7 @@ I am Suyash. I am from Vellore,Tamil Nadu and currently doing my B.Tech from Vel
 
 ## 👋 Reach out to me 
 - 💬 Ask me about anything.
-- 🖼️ Portfolio site: [Portfolio](https://suyash-srivastava.github.io/suyashsrivastava/Suyash)
+- 🖼️ Portfolio site: [Portfolio](https://github.com/SlickSkyZA/SlickSkyZA)
 - 💎 Fun fact: You lose automatically if you dont try.
 
 ![SlickSkyZA github stats](https://github-readme-stats.vercel.app/api?username=SlickSkyZA&hide=["issues"]&show_icons=true)
