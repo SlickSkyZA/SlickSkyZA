@@ -5,7 +5,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyash-srivastava-458b0117)](https://www.linkedin.com/in/suyash-srivastava-458b01173) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyash.srivastava14@gmail.com)](mailto:suyash.srivastava14@gmail.com)
 
-I am Andre Joubert. I am from South Africa and is a Self-Taught Developer / Digital Marketing / freelance and love what i do for me ist more off a passion then a job every task completed is for me like n new
+I am Andre Joubert. I am from South Africa and is a Self-Taught Developer / Digital Marketing / freelance and love what i do for me ist more off a passion then a job i starte my own small comment Coding Studio and focus manly on the freelance informnet as the community is so big and supportive and i can fokus my full attention and my client needs
+
+My reason for choosing to freelance is not technical. It was more of a personal choice for me, as a “follow your heart and let it lead the way”.
+
+There is an estimate that by 2020, 40% of the working will be freelancers. We are escaping from the industrial era where everyone was working from 9 to 5, Monday to Friday. 
+
 
 Aldo i am self Self-Taught is there hard in my work i give every ounce of what i can do the acceded the higes posible outcome.
 
